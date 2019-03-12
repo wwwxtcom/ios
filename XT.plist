@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/wwwxtcom/ios/blob/master/XT.ipa</string>
+					<string>https://raw.githubusercontent.com/wwwxtcom/ios/master/XT.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
